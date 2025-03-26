@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Player 1",
+      "country": "Country A",
+      "role": "Batsman",
+      "batting_hand": "Right-Hand-Bat",
+      "bowling_hand": null,
+      "price": 600000,
+      "rating": 75,
+      "img": "https://via.placeholder.com/150/abcdef/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 2",
+      "country": "Country B",
+      "role": "Bowler",
+      "batting_hand": "Left-Hand-Bat",
+      "bowling_hand": "Right-Arm Fast",
+      "price": 700000,
+      "rating": 78,
+      "img": "https://via.placeholder.com/150/123456/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 3",
+      "country": "Country C",
+      "role": "All-Rounder",
+      "batting_hand": "Right-Hand-Bat",
+      "bowling_hand": "Left-Arm Orthodox",
+      "price": 850000,
+      "rating": 82,
+      "img": "https://via.placeholder.com/150/fedcba/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 4",
+      "country": "Country A",
+      "role": "Wicket-keeper Batsman",
+      "batting_hand": "Left-Hand-Bat",
+      "bowling_hand": null,
+      "price": 750000,
+      "rating": 80,
+      "img": "https://via.placeholder.com/150/987654/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 5",
+      "country": "Country D",
+      "role": "Batsman",
+      "batting_hand": "Right-Hand-Bat",
+      "bowling_hand": "Right-Arm Leg-break",
+      "price": 650000,
+      "rating": 77,
+      "img": "https://via.placeholder.com/150/098765/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 6",
+      "country": "Country B",
+      "role": "Bowler",
+      "batting_hand": "Right-Hand-Bat",
+      "bowling_hand": "Left-Arm Medium-Fast",
+      "price": 800000,
+      "rating": 81,
+      "img": "https://via.placeholder.com/150/aabbcc/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 7",
+      "country": "Country C",
+      "role": "All-Rounder",
+      "batting_hand": "Left-Hand-Bat",
+      "bowling_hand": "Right-Arm Off-break",
+      "price": 900000,
+      "rating": 84,
+      "img": "https://via.placeholder.com/150/ddeeff/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 8",
+      "country": "Country D",
+      "role": "Batsman",
+      "batting_hand": "Right-Hand-Bat",
+      "bowling_hand": null,
+      "price": 720000,
+      "rating": 79,
+      "img": "https://via.placeholder.com/150/ffeecc/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 9",
+      "country": "Country A",
+      "role": "Bowler",
+      "batting_hand": "Left-Hand-Bat",
+      "bowling_hand": "Right-Arm Medium",
+      "price": 680000,
+      "rating": 76,
+      "img": "https://via.placeholder.com/150/ccbbaa/ffffff?Text=Cricket+Player"
+    },
+    {
+      "name": "Player 10",
+      "country": "Country B",
+      "role": "Wicket-keeper Batsman",
+      "batting_hand": "Right-Hand-Bat",
+      "bowling_hand": null,
+      "price": 880000,
+      "rating": 83,
+      "img": "https://via.placeholder.com/150/bbaa99/ffffff?Text=Cricket+Player"
+    }
+  ]
