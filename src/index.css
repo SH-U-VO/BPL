@@ -6,3 +6,7 @@
 body{
   font-family: "Sora", sans-serif;
 }
+
+#root{
+  background-color: aliceblue;
+}

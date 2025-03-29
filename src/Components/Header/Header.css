@@ -1,0 +1,27 @@
+.button-container {
+    display: inline-block;
+}
+
+.claim-button {
+    background-color: #E7FE29;
+    color: #000;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 12px 24px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, outline-offset 0.2s ease-in-out;
+    position: relative;
+    overflow: hidden;
+    outline: 4px solid #E7FE29; /* Add the black outline */
+    outline-offset: 4px; /* Create the gap */
+}
+
+.claim-button:hover {
+    background-color: #E7FE29;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    outline-offset: 3px; /* Slightly increase gap on hover (optional) */
+}
+
+.body{
+    color: #000;
+}

@@ -1,102 +1,112 @@
 [
-    {
-      "name": "Player 1",
-      "country": "Country A",
-      "role": "Batsman",
-      "batting_hand": "Right-Hand-Bat",
-      "bowling_hand": null,
-      "price": 600000,
-      "rating": 75,
-      "img": "https://via.placeholder.com/150/abcdef/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 2",
-      "country": "Country B",
-      "role": "Bowler",
-      "batting_hand": "Left-Hand-Bat",
-      "bowling_hand": "Right-Arm Fast",
-      "price": 700000,
-      "rating": 78,
-      "img": "https://via.placeholder.com/150/123456/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 3",
-      "country": "Country C",
-      "role": "All-Rounder",
-      "batting_hand": "Right-Hand-Bat",
-      "bowling_hand": "Left-Arm Orthodox",
-      "price": 850000,
-      "rating": 82,
-      "img": "https://via.placeholder.com/150/fedcba/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 4",
-      "country": "Country A",
-      "role": "Wicket-keeper Batsman",
-      "batting_hand": "Left-Hand-Bat",
-      "bowling_hand": null,
-      "price": 750000,
-      "rating": 80,
-      "img": "https://via.placeholder.com/150/987654/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 5",
-      "country": "Country D",
-      "role": "Batsman",
-      "batting_hand": "Right-Hand-Bat",
-      "bowling_hand": "Right-Arm Leg-break",
-      "price": 650000,
-      "rating": 77,
-      "img": "https://via.placeholder.com/150/098765/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 6",
-      "country": "Country B",
-      "role": "Bowler",
-      "batting_hand": "Right-Hand-Bat",
-      "bowling_hand": "Left-Arm Medium-Fast",
-      "price": 800000,
-      "rating": 81,
-      "img": "https://via.placeholder.com/150/aabbcc/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 7",
-      "country": "Country C",
-      "role": "All-Rounder",
-      "batting_hand": "Left-Hand-Bat",
-      "bowling_hand": "Right-Arm Off-break",
-      "price": 900000,
-      "rating": 84,
-      "img": "https://via.placeholder.com/150/ddeeff/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 8",
-      "country": "Country D",
-      "role": "Batsman",
-      "batting_hand": "Right-Hand-Bat",
-      "bowling_hand": null,
-      "price": 720000,
-      "rating": 79,
-      "img": "https://via.placeholder.com/150/ffeecc/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 9",
-      "country": "Country A",
-      "role": "Bowler",
-      "batting_hand": "Left-Hand-Bat",
-      "bowling_hand": "Right-Arm Medium",
-      "price": 680000,
-      "rating": 76,
-      "img": "https://via.placeholder.com/150/ccbbaa/ffffff?Text=Cricket+Player"
-    },
-    {
-      "name": "Player 10",
-      "country": "Country B",
-      "role": "Wicket-keeper Batsman",
-      "batting_hand": "Right-Hand-Bat",
-      "bowling_hand": null,
-      "price": 880000,
-      "rating": 83,
-      "img": "https://via.placeholder.com/150/bbaa99/ffffff?Text=Cricket+Player"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "batting_hand": "Right-Hand-Bat",
+    "bowling_hand": "Right-Arm Medium",
+    "price": 1500000,
+    "rating": 92,
+    "img": "https://images.hdqwalls.com/wallpapers/virat-kohli.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "batting_hand": "Right-Hand-Bat",
+    "bowling_hand": null,
+    "price": 1200000,
+    "rating": 88,
+    "img": "https://thefederal.com/h-upload/2024/05/31/450560-rohit-sharma-t20-wc.webp"
+  },
+  {
+    "id": 3,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "batting_hand": "Right-Hand-Bat",
+    "bowling_hand": "Right-Arm Fast",
+    "price": 1100000,
+    "rating": 89,
+    "img": "https://www.mumbaiindians.com/static-assets/waf-images/89/73/73/21-9/1200-675/EpoKMHyBvr.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "batting_hand": "Right-Hand-Bat",
+    "bowling_hand": "Right-Arm Off-break",
+    "price": 1300000,
+    "rating": 90,
+    "img": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/kanewilliamsonheadshot-min.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "batting_hand": "Left-Hand-Bat",
+    "bowling_hand": "Left-Arm Fast-Medium",
+    "price": 950000,
+    "rating": 85,
+    "img": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/trentboultheadshot-min.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "batting_hand": "Right-Hand-Bat",
+    "bowling_hand": null,
+    "price": 1400000,
+    "rating": 91,
+    "img": "https://www.aljazeera.com/wp-content/uploads/2022/11/000_32ND3AU.jpg?resize=770%2C513&quality=80"
+  },
+  {
+    "id": 7,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "batting_hand": "Left-Hand-Bat",
+    "bowling_hand": "Left-Arm Fast",
+    "price": 1000000,
+    "rating": 87,
+    "img": "https://c.ndtvimg.com/2023-09/9ksdir1_shaheen-afridi-afp_625x300_09_September_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+  },
+  {
+    "id": 8,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "batting_hand": "Right-Hand-Bat",
+    "bowling_hand": "Right-Arm Leg-break",
+    "price": 1250000,
+    "rating": 89,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/STEVE_SMITH_%2811705303043%29.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "batting_hand": "Right-Hand-Bat",
+    "bowling_hand": "Right-Arm Fast",
+    "price": 1150000,
+    "rating": 86,
+    "img": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3ce4/live/13e071c0-e3a5-11ef-8450-ff58a15d40df.jpg.webp"
+  },
+  {
+    "id": 10,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "batting_hand": "Left-Hand-Bat",
+    "bowling_hand": "Right-Arm Fast-Medium",
+    "price": 1600000,
+    "rating": 93,
+    "img": "https://www.telegraph.co.uk/content/dam/cricket/2024/04/02/TELEMMGLPICT000356342853_17120484240000_trans_NvBQzQNjv4BqRv0906j3HcBqPSICzzNHjjFRFK8aBSVkBz-VsogpiEs.jpeg?imwidth=960"
+  }
+]
