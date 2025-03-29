@@ -53,7 +53,7 @@ const Header = ({balance, handleClaimCredit}) => {
       {/* Glassmorphism Background Layer for Sticky Nav */}
       {isScrolled && (
         <div
-          className="sticky top-0 left-0 w-full h-25 bg-white/20 backdrop-filter backdrop-blur-md z-20 shadow-md transition-opacity"
+          className="sticky top-0 left-0 w-full h-23 bg-white/20 backdrop-filter backdrop-blur-md z-20 shadow-md transition-opacity"
         ></div>
       )}
 

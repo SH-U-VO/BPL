@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Footer from '../Footer/Footer';
 import SelectedPlayers from '../SelectedPlayers/SelectedPlayers';
-import { ToastContainer, toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 
 
 const Carts = ({ initialBalance, updateBalance }) => {
@@ -25,22 +25,20 @@ const Carts = ({ initialBalance, updateBalance }) => {
     }, []);
 
     const handleSelectPlayer = (player) => {
-        const notify = () => toast("Wow so easy!");
         console.log(selectedPlayers);
         if (selectedPlayers.find(selected => selected.id === player.id)) {
-            alert("This player is already selected!");
+            toast.error("This player is already selected!");
             return;
         }
 
         if (initialBalance < player.price) {
-            // alert("Insufficient funds!");
-            notify ();
-            <ToastContainer />;
+            toast.error("Insufficient funds!");            
             return;
         }
 
         setSelectedPlayers([...selectedPlayers, player]);
         updateBalance(initialBalance - player.price);
+        toast.success("Buying player successful")
     };
 
     const handleRemoveSelectedPlayer = (playerId) => {
@@ -96,3 +94,4 @@ const Carts = ({ initialBalance, updateBalance }) => {
 };
 
 export default Carts;
+

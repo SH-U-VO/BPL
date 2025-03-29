@@ -1,12 +1,22 @@
-# React + Vite
+BPL – Bangladesh Premier League
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A brief description:
 
-Currently, two official plugins are available:
+BPL is a fantasy cricket team builder where users can assemble their dream cricket team by selecting players within a virtual balance. Users can claim free credits, manage their team, and enjoy a smooth interactive experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+Technologies used:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React.js – Frontend framework for building the user interface.
+React Icons – For modern and responsive icons.
+React Toastify – For user notifications and alerts.
+CSS (Tailwind + Custom CSS) – For styling and responsiveness.
+
+
+3 key features of your project:
+
+Player Selection System: Users can browse available cricket players, view their details, and purchase them with virtual credits.
+
+Balance Management: Users start with a balance and can claim free credits or manage spending while selecting players.
+
+Interactive UI: Dynamic navbar, smooth transitions, and responsive design enhance the user experience.
