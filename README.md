@@ -22,4 +22,4 @@ Balance Management: Users start with a balance and can claim free credits or man
 Interactive UI: Dynamic navbar, smooth transitions, and responsive design enhance the user experience.
 
 
-Live Project Link: 
+Live Project Link: https://sh-u-vo.github.io/bpl/
